@@ -1,2 +1,2 @@
  create a conflict 
-branch1
+ branch1
